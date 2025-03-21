@@ -1,0 +1,47 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "First Blog Post",
+        "body": "This is the content of the first blog post. It talks about Vue composables.",
+        "tags": ["vue", "javascript"]
+      },
+      {
+        "id": 2,
+        "title": "Another Post",
+        "body": "This is another post with more content, discussing front-end development.",
+        "tags": ["frontend", "html", "css"]
+      },
+      {
+        "id": 3,
+        "title": "Learning Vue Router",
+        "body": "Vue Router helps in building single page applications with route-based views.",
+        "tags": ["vue", "router", "spa"]
+      },
+      {
+        "id": 4,
+        "title": "State Management with Pinia",
+        "body": "Pinia is the recommended state management library for Vue 3. It is intuitive and easy to use.",
+        "tags": ["vue", "pinia", "state"]
+      },
+      {
+        "id": 5,
+        "title": "Using Tailwind CSS",
+        "body": "Tailwind CSS is a utility-first framework that lets you build modern designs without leaving your HTML.",
+        "tags": ["css", "tailwind", "frontend"]
+      },
+      {
+        "id": 6,
+        "title": "Intro to Composition API",
+        "body": "Vue 3's Composition API gives you more flexibility and better code organization.",
+        "tags": ["vue", "composition-api"]
+      },
+      {
+        "id": 7,
+        "title": "Working with Props and Emits",
+        "body": "Props allow passing data to child components, while emits help you send events back to the parent.",
+        "tags": ["vue", "props", "emits"]
+      }
+    ]
+  }
+  
